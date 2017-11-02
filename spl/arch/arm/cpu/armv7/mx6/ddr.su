@@ -1,0 +1,2 @@
+ddr.c:17:6:mx6sx_dram_iocfg	12	static
+ddr.c:251:6:mx6_dram_cfg	88	static

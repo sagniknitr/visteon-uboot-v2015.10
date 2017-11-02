@@ -1,0 +1,1 @@
+cmd_spl/board/udoo/udoo_neo/built-in.o :=  arm-linux-gnueabihf-ld.bfd     -r -o spl/board/udoo/udoo_neo/built-in.o spl/board/udoo/udoo_neo/neo.o spl/board/udoo/udoo_neo/detectboard.o spl/board/udoo/udoo_neo/spl.o 

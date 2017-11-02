@@ -1,0 +1,2 @@
+spl_mmc.c:99:5:find_mmc_num	24	static
+spl_mmc.c:130:6:spl_mmc_load_image	24	static
